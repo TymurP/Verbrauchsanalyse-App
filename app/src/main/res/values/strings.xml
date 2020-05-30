@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Verbrauchanalyse</string>
+    <string name="nav_header_title">Felix Zinn</string>
+    <string name="nav_header_subtitle">DSGVO lässt grüßen ;)</string>
+    <string name="menu_home">Home</string>
+    <string name="editText_electric">Stromzähler</string>
+    <string name="editText_gas">Gaszähler</string>
+    <string name="editText_water">Wasserzähler</string>
+    <string name="electric_consumption">Stromverbrauch</string>
+    <string name="gas_consumption">Gasverbrauch</string>
+    <string name="water_consumption">Wasserverbrauch</string>
+    <string name="button_save_state">Speichern</string>
+</resources>
